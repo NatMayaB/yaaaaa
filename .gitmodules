@@ -1,0 +1,3 @@
+[submodule "protected/extensions/postmaster_classes"]
+	path = protected/extensions/postmaster_classes
+	url = git@bitbucket.org:netmxteam/postmaster_classes.git
